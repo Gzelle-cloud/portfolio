@@ -58,10 +58,16 @@ const descriptions = [
   document.querySelector("#third"),
   document.querySelector("#fourth"),
   document.querySelector("#fifth"),
-  document.querySelector("#sixth")
+  document.querySelector("#sixth"),
+  document.querySelector("#seventh"),
+  document.querySelector("#eighth"),
+  document.querySelector("#nineth")
 ];
 
 const originalTexts = [
+  "Recipe finder app",
+  "Task planning and idea management app",
+  "BoredomFighter app",
   "Restaurant search app",
   "Birthday countdown app",
   "Budget planning app",
@@ -70,6 +76,9 @@ const originalTexts = [
   "Breathe app"
 ];
 const hoverTexts = [
+  "View demo",
+  "View demo",
+  "View demo",
   "View demo",
   "View demo",
   "View demo",
