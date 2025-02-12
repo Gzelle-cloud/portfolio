@@ -22,6 +22,6 @@ To clone and run this portfolio locally, follow these steps:
 
 ## Usage
 Explore the different projects showcased in this portfolio.
-Click on project links to view live demos and source code.
+Click on project links to view live demos.
 
 Thank you for visiting my portfolio!
