@@ -12,6 +12,8 @@ A state management library for managing and centralizing application state in a 
 The core programming language used to create interactive and dynamic functionality.
 #### HTML/CSS: 
 Used for structuring and styling the web applications.
+#### REST API:
+Used in various projects to fetch and send data between the client and server, enabling dynamic content and real-time updates
 
 ## Installation
 To clone and run this portfolio locally, follow these steps:
