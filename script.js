@@ -65,7 +65,7 @@ const descriptions = [
 ];
 
 const originalTexts = [
-  "Recipe finder app",
+  "Reading planner app",
   "Task planning and idea management app",
   "BoredomFighter app",
   "Restaurant search app",
