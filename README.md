@@ -44,6 +44,10 @@ npm start
 Explore the different projects showcased in this portfolio.  
 Each project includes a short description and (where available) a **live demo** link.
 
+## License
+
+This project, along with other projects in my GitHub, is open-source and available under the [MIT License](LICENSE).
+
 ---
 
 ⭐️ Thank you for visiting my portfolio!  
